@@ -1,0 +1,118 @@
+[
+  {
+    "id": "github-connector",
+    "name": "GitHub Connector",
+    "description": "Enables AI to interact with GitHub repositories, manage issues, and pull requests.",
+    "tags": ["github", "version-control", "api"]
+  },
+  {
+    "id": "slack-notifier",
+    "name": "Slack Notifier",
+    "description": "Allows AI to send messages and notifications to Slack channels.",
+    "tags": ["slack", "communication", "messaging"]
+  },
+  {
+    "id": "json-parser",
+    "name": "JSON Parser",
+    "description": "Parses and validates JSON data structures.",
+    "tags": ["json", "parser", "data"]
+  },
+  {
+    "id": "google-drive-access",
+    "name": "Google Drive Access",
+    "description": "Provides AI with access to Google Drive files and folders.",
+    "tags": ["google-drive", "cloud-storage", "files"]
+  },
+  {
+    "id": "postgresql-client",
+    "name": "PostgreSQL Client",
+    "description": "Connects AI to PostgreSQL databases for querying and data manipulation.",
+    "tags": ["database", "postgresql", "sql"]
+  },
+  {
+    "id": "fetch-api",
+    "name": "Fetch API",
+    "description": "Allows AI to retrieve data from specified web URLs.",
+    "tags": ["http", "fetch", "web"]
+  },
+  {
+    "id": "file-system-access",
+    "name": "File System Access",
+    "description": "Grants AI the ability to read and write local files.",
+    "tags": ["filesystem", "local", "files"]
+  },
+  {
+    "id": "openai-connector",
+    "name": "OpenAI Connector",
+    "description": "Integrates AI with OpenAI's API for advanced language processing.",
+    "tags": ["openai", "language-model", "api"]
+  },
+  {
+    "id": "microsoft-365-suite",
+    "name": "Microsoft 365 Suite",
+    "description": "Connects AI to Microsoft 365 services like Outlook and OneDrive.",
+    "tags": ["microsoft", "office", "cloud"]
+  },
+  {
+    "id": "puppeteer-browser",
+    "name": "Puppeteer Browser",
+    "description": "Enables AI to automate and interact with web pages using Puppeteer.",
+    "tags": ["browser", "automation", "web", "puppeteer"]
+  },
+  {
+    "id": "gmail-access",
+    "name": "Gmail Access",
+    "description": "Allows AI to read and send emails through Gmail.",
+    "tags": ["gmail", "email", "communication"]
+  },
+  {
+    "id": "docker-client",
+    "name": "Docker Client",
+    "description": "Connects AI to Docker for container management and orchestration.",
+    "tags": ["docker", "containers", "devops"]
+  },
+  {
+    "id": "website-monitor",
+    "name": "Website Monitor",
+    "description": "Monitors websites for changes or downtime.",
+    "tags": ["monitoring", "web", "alerts"]
+  },
+  {
+    "id": "toolchain-runner",
+    "name": "Toolchain Runner",
+    "description": "Executes multi-step tasks by chaining compatible tools.",
+    "tags": ["multi", "planner", "orchestrator"]
+  },
+  {
+    "id": "web-scraper",
+    "name": "Web Scraper",
+    "description": "Extracts data from web pages using selectors or patterns.",
+    "tags": ["scraping", "web", "automation"]
+  },
+  {
+    "id": "summary-engine",
+    "name": "Summary Engine",
+    "description": "Summarizes text content, emails, or documents intelligently.",
+    "tags": ["summarization", "nlp", "text"]
+  },
+  {
+    "id": "auth-checker",
+    "name": "Auth Checker",
+    "description": "Verifies authentication credentials and access permissions.",
+    "tags": ["auth", "security", "login"]
+  },
+  {
+    "id": "ci-monitor",
+    "name": "CI Monitor",
+    "description": "Watches CI pipelines and triggers alerts on failures.",
+    "tags": ["ci", "build", "alerts"]
+  },
+  {
+    "id": "chart-generator",
+    "name": "Chart Generator",
+    "description": "Creates pie, bar, and line charts from structured data.",
+    "tags": ["visualization", "charts", "data"]
+  }
+]
+
+  

@@ -1,0 +1,104 @@
+[
+  {
+    "id": "gh-connector",
+    "name": "GH Connector",
+    "description": "Connects to GitHub repositories for seamless integration.",
+    "tags": ["github", "version-control", "api"]
+  },
+  {
+    "id": "slack-alert",
+    "name": "Slack Alert",
+    "description": "Sends alerts and messages to Slack channels effortlessly.",
+    "tags": ["slack", "communication", "messaging"]
+  },
+  {
+    "id": "parser-json",
+    "name": "JSN Parser",
+    "description": "Efficiently parses JSON data structures.",
+    "tags": ["json", "parser", "data"]
+  },
+  {
+    "id": "gdrive-accessor",
+    "name": "GDrive Accessor",
+    "description": "Accesses Google Drive files and folders with ease.",
+    "tags": ["google-drive", "cloud-storage", "files"]
+  },
+  {
+    "id": "pg-client",
+    "name": "PG Client",
+    "description": "Interfaces with PostgreSQL databases for data operations.",
+    "tags": ["database", "postgresql", "sql"]
+  },
+  {
+    "id": "web-fetcher",
+    "name": "Web Fetcher",
+    "description": "Fetches data from web URLs efficiently.",
+    "tags": ["http", "fetch", "web"]
+  },
+  {
+    "id": "fs-access",
+    "name": "FS Access",
+    "description": "Provides access to local file systems for reading and writing.",
+    "tags": ["filesystem", "local", "files"]
+  },
+  {
+    "id": "openai-link",
+    "name": "OpenAI Link",
+    "description": "Links AI applications with OpenAI's language models.",
+    "tags": ["openai", "language-model", "api"]
+  },
+  {
+    "id": "ms365-suite",
+    "name": "MS365 Suite",
+    "description": "Integrates with Microsoft 365 services for productivity.",
+    "tags": ["microsoft", "office", "cloud"]
+  },
+  {
+    "id": "puppeteer-automation",
+    "name": "Puppeteer Automation",
+    "description": "Automates web interactions using Puppeteer framework.",
+    "tags": ["browser", "automation", "web"]
+  },
+  {
+    "id": "site-watch",
+    "name": "SiteWatch",
+    "description": "Keeps an eye on web activity for updates.",
+    "tags": ["monitoring", "alerts", "web"]
+  },
+  {
+    "id": "multi-tool-handler",
+    "name": "Multi Tool Handler",
+    "description": "Handles tasks that require more than one tool.",
+    "tags": ["multi", "planner", "tools"]
+  },
+  {
+    "id": "webdata-extractor",
+    "name": "WebData Extractor",
+    "description": "Pulls content from webpages for further analysis.",
+    "tags": ["scraping", "web", "automation"]
+  },
+  {
+    "id": "text-shortener",
+    "name": "Text Shortener",
+    "description": "Shrinks long documents into bite-sized chunks.",
+    "tags": ["summarization", "nlp", "text"]
+  },
+  {
+    "id": "auth-verifier",
+    "name": "Auth Verifier",
+    "description": "Validates credentials before system access.",
+    "tags": ["auth", "security", "login"]
+  },
+  {
+    "id": "pipeline-sensor",
+    "name": "Pipeline Sensor",
+    "description": "Notifies teams when builds fail.",
+    "tags": ["ci", "build", "monitoring"]
+  },
+  {
+    "id": "graphify",
+    "name": "Graphify",
+    "description": "Draws neat data visualizations and charts.",
+    "tags": ["visualization", "charts", "graphs"]
+  }
+]

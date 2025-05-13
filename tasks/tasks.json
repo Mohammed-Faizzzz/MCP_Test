@@ -1,0 +1,182 @@
+[
+  {
+    "task_id": "t1",
+    "description": "Push code to GitHub",
+    "tag": "github",
+    "keyword": "github"
+  },
+  {
+    "task_id": "t2",
+    "description": "Parse a JSON string",
+    "tag": "json",
+    "keyword": "json"
+  },
+  {
+    "task_id": "t3",
+    "description": "Send a Slack notification about a build failure",
+    "tag": "slack",
+    "keyword": "slack"
+  },
+  {
+    "task_id": "t4",
+    "description": "Fetch a webpage's HTML",
+    "tag": "http",
+    "keyword": "fetch"
+  },
+  {
+    "task_id": "t5",
+    "description": "Query PostgreSQL for all recent user signups",
+    "tag": "postgresql",
+    "keyword": "postgres"
+  },
+  {
+    "task_id": "t6",
+    "description": "Upload a PDF to Google Drive",
+    "tag": "google-drive",
+    "keyword": "drive"
+  },
+  {
+    "task_id": "t7",
+    "description": "Summarize an email thread using OpenAI",
+    "tag": "openai",
+    "keyword": "openai"
+  },
+  {
+    "task_id": "t8",
+    "description": "Generate a pie chart from database values",
+    "tag": "visualization",
+    "keyword": "chart"
+  },
+  {
+    "task_id": "t9",
+    "description": "Save logs to the local file system",
+    "tag": "filesystem",
+    "keyword": "file"
+  },
+  {
+    "task_id": "t10",
+    "description": "Read a CSV file from local disk",
+    "tag": "filesystem",
+    "keyword": "file"
+  },
+  {
+    "task_id": "t11",
+    "description": "Analyze a document stored in OneDrive",
+    "tag": "microsoft",
+    "keyword": "onedrive"
+  },
+  {
+    "task_id": "t12",
+    "description": "Post a message to Microsoft Teams",
+    "tag": "microsoft",
+    "keyword": "teams"
+  },
+  {
+    "task_id": "t13",
+    "description": "Schedule a meeting using Outlook",
+    "tag": "microsoft",
+    "keyword": "outlook"
+  },
+  {
+    "task_id": "t14",
+    "description": "Crawl and extract metadata from a website",
+    "tag": "browser",
+    "keyword": "puppeteer"
+  },
+  {
+    "task_id": "t15",
+    "description": "Automate form submission on a web page",
+    "tag": "browser",
+    "keyword": "puppeteer"
+  },
+  {
+    "task_id": "t16",
+    "description": "Detect broken links on a given website",
+    "tag": "browser",
+    "keyword": "puppeteer"
+  },
+  {
+    "task_id": "t17",
+    "description": "Log into a cloud service and verify credentials",
+    "tag": "auth",
+    "keyword": "login"
+  },
+  {
+    "task_id": "t18",
+    "description": "List all files in a shared Slack channel",
+    "tag": "slack",
+    "keyword": "slack"
+  },
+  {
+    "task_id": "t19",
+    "description": "Translate a document using OpenAI",
+    "tag": "openai",
+    "keyword": "openai"
+  },
+  {
+    "task_id": "t20",
+    "description": "Backup a folder to Google Drive",
+    "tag": "google-drive",
+    "keyword": "drive"
+  },
+  {
+    "task_id": "t21",
+    "description": "Summarize the most recent email in my inbox and store it in a document.",
+    "tag": "multi",
+    "keyword": "summarize"
+  },
+  {
+    "task_id": "t22",
+    "description": "Download the last 10 support tickets from our customer portal and analyze sentiment.",
+    "tag": "multi",
+    "keyword": "sentiment"
+  },
+  {
+    "task_id": "t23",
+    "description": "Alert the team when a code push breaks the CI pipeline.",
+    "tag": "ci",
+    "keyword": "alert"
+  },
+  {
+    "task_id": "t24",
+    "description": "Organize a weekly digest of changes across our repositories.",
+    "tag": "github",
+    "keyword": "digest"
+  },
+  {
+    "task_id": "t25",
+    "description": "Read the contents of a local invoice file and share it with the accounting group.",
+    "tag": "filesystem",
+    "keyword": "invoice"
+  },
+  {
+    "task_id": "t26",
+    "description": "Find the top 5 sales regions by querying our database and visualizing the result.",
+    "tag": "multi",
+    "keyword": "sales"
+  },
+  {
+    "task_id": "t27",
+    "description": "Watch our product site for updates and notify marketing when changes are detected.",
+    "tag": "monitoring",
+    "keyword": "website"
+  },
+  {
+    "task_id": "t28",
+    "description": "Convert a meeting transcript into bullet points and upload to our shared drive.",
+    "tag": "summarization",
+    "keyword": "transcript"
+  },
+  {
+    "task_id": "t29",
+    "description": "Draft a follow-up email based on the latest customer inquiry file.",
+    "tag": "email",
+    "keyword": "follow-up"
+  },
+  {
+    "task_id": "t30",
+    "description": "Extract email addresses from a webpage and save them for a campaign.",
+    "tag": "scraping",
+    "keyword": "extract"
+  }
+]
