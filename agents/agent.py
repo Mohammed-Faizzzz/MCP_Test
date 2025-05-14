@@ -9,5 +9,5 @@ class MCPAgent:
 
     def choose_tool(self):
         tools = requests.get(self.registry_url).json()
-        random.shuffle(tools)  # simulate randomized UX
+        random.shuffle(tools)
         return llm_decision(self.task, tools)
